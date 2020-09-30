@@ -71,6 +71,6 @@ def simple_linear_regression(train, test):
 
 
 # Test simple linear regression
-dataset = [[1, 1], [2, 3], [4, 3], [3, 2], [5, 5]]
+dataset = [[1, 1], [2, 3], [4, 3], [3, 2], [5, 5], [6, 6]]
 rmse = evaluate_algorithm(dataset, simple_linear_regression)
 print('RMSE: %.3f' % (rmse))

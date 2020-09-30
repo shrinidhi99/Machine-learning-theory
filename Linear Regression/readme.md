@@ -1,10 +1,10 @@
 ## Linear regression
 
-Linear regression assumes a linear or straight line relationship between the input variables (X) and the single output variable (y).
+`Linear regression` assumes a linear or straight line relationship between the input variables (X) and the single output variable (y).
 
-More specifically, that output (y) can be calculated from a linear combination of the input variables (X). When there is a single input variable, the method is referred to as a simple linear regression.
+* More specifically, that output (y) can be calculated from a linear combination of the input variables (X). When there is a single input variable, the method is referred to as a simple linear regression.
 
-In simple linear regression we can use statistics on the training data to estimate the coefficients required by the model to make predictions on new data.
+* In simple linear regression we can use statistics on the training data to estimate the coefficients required by the model to make predictions on new data.
 
 The line for a simple linear regression model can be written as:
 ```C++
